@@ -18,10 +18,23 @@ function add(num1,num2) {
 const result = add(13,12)
 console.log(result);
 
-// function ar value na dile
+// function ar value ekta dila ar na dile
 function add(num1,num2) {
     const total =(num1 + num2);
    return total
 }
 const result = add(13)
 console.log(result);
+
+// object a amn kono kicu na thakla tarpoe o call kora
+const pramik ={name:"kalu",phone:01212}
+console.log(pramik.gfName);
+
+// jodi undefined bola day tahole hbe
+let fun = undefined
+
+// null
+
+// null hocca khali
+
+null hoca 
