@@ -8,7 +8,7 @@
 // undefined
 // null
 // NaN
-// let ar value na dile
+
 
 const age = 4
 if (age) {
