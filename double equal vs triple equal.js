@@ -9,7 +9,7 @@ else{
 
 // == sudu value check kora
 
-// === value ar satha ki oita cgeck kora mana stickly check kora
+// === value ar satha ki oita check kora mana stickly check kora
 
 const first = 2;
 const second = "3";

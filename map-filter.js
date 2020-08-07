@@ -1,4 +1,6 @@
- const numbers = [3,5,4,6,2,9]
+// squre korar jonno
+ 
+const numbers = [3,5,4,6,2,9]
 const output =[];
 
 for (let i = 0; i < numbers.length; i++) {
@@ -9,7 +11,7 @@ for (let i = 0; i < numbers.length; i++) {
 console.log(output);
 
 // nwe vave kora jay
-// map ar vitora 3ta paramiter nAYA jay Element , index,array
+// map ar vitora 3ta paramiter nAYA jay Element ,index, array
  
 // const numbers = [3,4,5,6,1]
 
@@ -20,7 +22,7 @@ const square = x => x * x
 console.log(squre);
 
 // or
-
+ const numbers = [3,5,4,6,2,9]
  const result= numbers.map(function(element){
     // console.log(element, index, array);
     return element * element

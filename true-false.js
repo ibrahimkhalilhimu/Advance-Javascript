@@ -1,8 +1,11 @@
-// truely
+// truely:
+
 // 1
 // " "
 // 0 cara ja kono number ja kono likha
-// falsy 
+
+// falsy :
+
 // 0
 // ""
 // undefined

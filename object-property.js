@@ -1,15 +1,15 @@
-// const students = [
-//     {id : 21, name : "omar sunny"},
-//     {id : 32, name : "manna"},
-//     {id : 54, name : "depjol"}
-// ]
-// const output = []
-// for (let i = 0; i < students.length; i++) {
-//     const element = students[i];
-//     output.push(element.name)
+const students = [
+    {id : 21, name : "omar sunny"},
+    {id : 32, name : "manna"},
+    {id : 54, name : "depjol"}
+]
+const output = []
+for (let i = 0; i < students.length; i++) {
+    const element = students[i];
+    output.push(element.name)
     
-// }
-// console.log(output);
+}
+console.log(output);
 
 // ai vave o kora jay
 
